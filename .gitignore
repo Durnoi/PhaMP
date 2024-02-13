@@ -1,0 +1,7 @@
+*.o
+*.a
+*.0
+bin/
+blocknotify/blocknotify
+stratum/stratum
+logs/
